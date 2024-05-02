@@ -1,5 +1,5 @@
 # MotoLink
-MotoLink é uma aplicação front end web responsiva, construída em grupo durante o último módulo de **Front End** do **Curso de Desenvolvimento FullStack**, que é ministrado pela [Kenzie Academy Brasil](https://kenzie.com.br/).
+MotoLink é uma aplicação front end web responsiva, para contratação de mão de obra temporária e efetiva entre motoboys e clientes finais.
 
 > A motolink conecta as melhores empresas aos motoboys mais rápidos do mercado.
 
@@ -64,7 +64,7 @@ Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-git clone https://github.com/ProjetoFrontEndG4-MotoLink/MotoLink
+git clone git@github.com:pedroandradev/motolink.git
 
 # entrar na pasta do projeto front end web
 cd front-web
@@ -73,5 +73,5 @@ cd front-web
 npm/yarn install
 
 # executar o projeto
-npm/yarn start
+npm/yarn run dev
 ```
